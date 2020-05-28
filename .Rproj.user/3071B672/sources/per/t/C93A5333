@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590676049769.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2212822378",
+    "id" : "C93A5333",
+    "lastKnownWriteTime" : 1590675941,
+    "last_content_update" : 1590675941,
+    "path" : "D:/R Practice/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
